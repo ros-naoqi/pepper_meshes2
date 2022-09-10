@@ -8,11 +8,7 @@ ament_package()
 # read comments below to adapt
 
 set(TMP_DIR ${CMAKE_INSTALL_PREFIX}/tmp)
-
 set(INSTALLER_TMP_PATH ${TMP_DIR}/tmp/installer.run)
-
-message("-------------------------" ${INSTALLER_TMP_PATH})
-message("-------------------------" ${CMAKE_INSTALL_PREFIX})
 
 # Try to figure out the architecture
 string(FIND ${CMAKE_INSTALL_PREFIX} "i686" IS_32)
