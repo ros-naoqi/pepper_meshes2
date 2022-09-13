@@ -2,8 +2,8 @@
 Changelog for package pepper_meshes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.1 (2022-09-13)
+------------------
 * Merge branch 'fix_binaries' into main
 * Update CMakeLists.txt, attempting to fix the binaries for ROS2
 * Fix badge links in README
