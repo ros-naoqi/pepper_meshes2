@@ -2,6 +2,17 @@
 Changelog for package pepper_meshes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Update status badges
+* Add CI
+* Interactive agreement by default
+  Explicit option in command line to agree to license.
+  Improved interaction and messages.
+* Improved detection of the platform
+* Update maintainers
+* Contributors: Victor Paléologue
+
 2.0.1 (2022-09-13)
 ------------------
 * Merge branch 'fix_binaries' into main
