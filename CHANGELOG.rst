@@ -2,8 +2,8 @@
 Changelog for package pepper_meshes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.0.0 (2023-11-22)
+------------------
 * Update status badges
 * Add CI
 * Interactive agreement by default
